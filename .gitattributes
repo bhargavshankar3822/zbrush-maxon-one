@@ -1,0 +1,15 @@
+# Generated on 2026-11-16
+# Text file normalization
+*.ico binary
+build/* linguist-vendored
+
+*.map linguist-generated
+
+*.woff2 binary
+
+**/*.py linguist-detectable
+*.json linguist-detectable=false
+static/**/*.html linguist-vendored
+*.gif binary
+
+*.sh text eol=lf
